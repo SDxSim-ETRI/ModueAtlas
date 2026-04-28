@@ -1,16 +1,16 @@
-# ModueAtlas 🗺️
+# ModuëAtlas 🗺️
 
-**ModueAtlas**는 방대한 로봇 학습 데이터셋의 구조와 내용을 깊이 있게 들여다보고 분석할 수 있는 데이터 익스플로러 패키지입니다.
+**ModuëAtlas**는 방대한 로봇 학습 데이터셋의 구조와 내용을 깊이 있게 들여다보고 분석할 수 있는 데이터 익스플로러 패키지
 
 ---
 
-## ✨ What is "Modue"? (Etymology)
+## ✨ What is "Moduë"? (Etymology)
 
 * **Origin**: 한국어 **"모두의" (Modu-ui)**에서 유래되었으며, "모두를 위한(Everyone's)"이라는 의미를 담고 있습니다.
-* **Pronunciation**: **"Modue" (모두에 /mo.du.e/)**로 발음하며, 포용성과 개방성을 상징합니다.
+* **Pronunciation**: **"Modue or Moduë" (모두에 /mo.du.e/)**로 발음하며, 포용성과 개방성을 상징합니다.
 * **Vision**: 복잡한 로봇 데이터를 연구자 **모두가** 쉽고 명확하게 이해할 수 있도록 데이터의 지도를 제공합니다.
 
-> **ModueAtlas** = **Modue** (Everyone's) + **Atlas** (A map for complex datasets)
+> **ModuëAtlas** = **Moduë** (Everyone's) + **Atlas** (A map for complex datasets)
 
 ---
 
